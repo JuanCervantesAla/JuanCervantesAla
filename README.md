@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanCervantesAla
 - 👀 I’m interested in learning professional coding
-- 🌱 I’m currently learning Java, C# and python
+- 🌱 I’m currently learning Java, C++ and python
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me? R: juajocervantes16@gmail.com
 
