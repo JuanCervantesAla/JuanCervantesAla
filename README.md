@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Avatar ai (Political AI)**
 
-- My Wbestie: https://capyflow.onrender.com
+- My Website: https://capyflow.onrender.com
 
 - 🌱 I’m currently learning **Typescript and I'm brushing up on Java(Spring)**
 
