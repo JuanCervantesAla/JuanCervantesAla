@@ -5,9 +5,7 @@
 
 - My Website: https://capyflow.onrender.com
 
-- 🌱 I’m currently learning **Typescript and I'm brushing up on Java(Spring)**
-
-- 👯 I’m looking to collaborate on **any project**
+- 🌱 I’m currently learning **Python but profiecient in Java**
 
 - 💬 Ask me about **spring, django, node and react**
 
