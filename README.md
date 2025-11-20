@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Cervantes</h1>
 <h3 align="center">Software developer from Mexico</h3>
 
-- 🔭 I’m currently working at **Fives Consulting **
+- 🔭 I’m currently working at Fives Consulting
 
 - My Website: https://capyflow.onrender.com
 
