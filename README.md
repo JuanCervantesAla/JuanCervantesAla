@@ -5,7 +5,7 @@
 
 Backend, automation and cloud-oriented systems.
 
-Mexico · Fives Consulting  
+Mexico · 
 
 [Website](https://capyflow.onrender.com) • 
 [LinkedIn](https://linkedin.com/in/juan-cervantes-9025752b8) • 
